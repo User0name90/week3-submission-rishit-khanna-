@@ -30,10 +30,7 @@ Question 4:
     ros2 run kratos_rishitkhanna clock (publish on /clock suscribe to /hour /minute /second)
 
 
-
-
-
-
+![q4_rishitkhanna](https://github.com/user-attachments/assets/179fd5b4-0cbd-4c20-9bc4-bbeb81711280)
 
 
 
